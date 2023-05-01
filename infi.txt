@@ -1,2 +1,0 @@
-Which tool are you using and why?
-I am using Jmeter tool.It is open source tool so there is no licening cost and simple to install and use on any windows,mac,linux desktop computer.It is used to test load testing fuctional behavior and measuring performance.
